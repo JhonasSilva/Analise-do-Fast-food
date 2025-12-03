@@ -39,3 +39,5 @@ VS Code (com extenção do jupter) Ambiente de desenvolvimento
 📎 Autor:
 📍 Jhonas da Conceição Silva
 📧jhonassilvac@gmail.com
+
+Aviso: NÃO FOI POSSIVEL APRESENTAR O PROJETO EM POWERBI EM UM PORTIFOLIO INTERATIVO, FIZ UMA PUBLI NO MEU LINKEDIN DO MESMO: https://www.linkedin.com/feed/update/urn:li:activity:7402044127619616769/
