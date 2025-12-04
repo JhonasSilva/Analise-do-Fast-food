@@ -12,7 +12,7 @@ Dados/
 └── fast_food_ordering_dataset.csv
 
 Imagens/
-└── Gráficos gerados para uso no dashboard
+└── Gráficos gerados
 
 Notebooks/
 └── Análises em Python (Jupyter / VS Code)
@@ -70,3 +70,4 @@ Não foi possível disponibilizar o dashboard do Power BI de forma interativa ne
 Foi realizada uma publicação com as imagens e explicação do projeto no LinkedIn:
 
 🔗 https://www.linkedin.com/feed/update/urn:li:activity:7402044127619616769/
+
